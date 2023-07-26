@@ -3,8 +3,7 @@ This cocktail app allows users to explore and discover classic cocktail recipes.
 
 **Link to project:** https://drinksuggestions.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/650)
-
+![A Screengrab of the cocktail suggestion app title with search bar.](<js/Screenshot 2023-07-26 at 4.53.08 PM.png>)
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, External API, Google Fonts
