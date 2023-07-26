@@ -1,4 +1,4 @@
-# My Awesome Project
+# Cocktail Suggestion APP
 This cocktail app allows users to explore and discover classic cocktail recipes. Users can either click the "Surprise me" button to get a random cocktail recipe or use the search bar to look up a specific cocktail. The app fetches data from an external API to display cocktail details, including ingredients and preparation instructions. It provides a simple and enjoyable way to learn about and enjoy a variety of classic cocktails.
 
 **Link to project:** https://drinksuggestions.netlify.app/
